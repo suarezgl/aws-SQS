@@ -1,0 +1,14 @@
+{
+  "name": "sqs-test-module",
+  "version": "1.0.0",
+  "description": "queue,sqs,aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Suarez",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.11.0"
+  }
+}
